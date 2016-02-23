@@ -1,6 +1,6 @@
 # Anonquit
 
-### By fanta
+### By fanta  <http://elbinario.net>
 
 Creative Commons Attribution 4.0 International
 
